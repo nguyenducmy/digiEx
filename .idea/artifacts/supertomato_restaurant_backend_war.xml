@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="supertomato-restaurant-backend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>supertomato-restaurant-backend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="supertomato-restaurant-backend-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="supertomato-restaurant-backend:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,81 @@
+<html>
+<head>
+    <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+</head>
+<body style="background: #f0f0f0;">
+<table cellspacing="0" cellpadding="0" border="0"
+       style="color:#333;background:#fff;padding:0;margin:0;width:100%;font:15px/1.25em 'Helvetica Neue',Arial,Helvetica">
+    <tbody>
+    <tr width="100%">
+        <td valign="top" align="left" style="background:#f0f0f0;font:15px/1.25em 'Helvetica Neue',Arial,Helvetica">
+            <table style="border:none;padding:0 18px;margin:50px auto;width:600px">
+                <tbody>
+
+                <tr width="100%">
+                    <td valign="top" align="left"
+                        style="border: solid 1px #000000;background:#FFFFFF;padding:18px;font-weight: bold;font-stretch: normal;font-style: normal;line-height: normal;letter-spacing: normal;">
+                        <h1 align="center" style="font-family: Roboto;
+                                                                            font-size: 22px;
+                                                                            font-weight: bold;
+                                                                            font-stretch: normal;
+                                                                            font-style: normal;
+                                                                            line-height: normal;
+                                                                            letter-spacing: normal;
+                                                                            color: #262626;">Welcome!</h1>
+                        <p style="font-family: Roboto;
+                                                                            font-size: 16px;
+                                                                            font-weight: normal;
+                                                                            font-stretch: normal;
+                                                                            font-style: normal;
+                                                                            line-height: 1.43;
+                                                                            letter-spacing: normal;
+                                                                            color: #3f3f3f;">We're excited to have you get started. First, you need confirm your account. Just press the button below.
+                        </p>
+                        <p align="center" >
+                            <a href="${link}" target="_blank" style="width: 180px;
+                                                                               height: 40px;
+                                                                               background-color: #FFA500;
+                                                                               display: block;
+                                                                               font-size: 14px;
+                                                                               text-align: center;
+                                                                               color: #FFFFF0;
+                                                                               text-decoration: none;
+                                                                               line-height: 40px;
+                                                                               ">Confirm Account</a>
+                        </p>
+
+                        <p style="font-family: Roboto;
+                                                                            font-size: 16px;
+                                                                            font-weight: normal;
+                                                                            font-stretch: normal;
+                                                                            font-style: normal;
+                                                                            line-height: 1.43;
+                                                                            letter-spacing: normal;
+                                                                            margin-top: 33px;" >If that doesn't work, copy and paste the following link in your browser:</br>${link}
+
+                        </p>
+
+                        <p style="font-family: 'Roboto', sans-serif;
+                                                                font-style: normal;
+                                                                font-weight: 500;
+                                                                font-size: 15px;
+                                                                line-height: 18px;
+                                                                color: #2F2F2F; margin-top: 0px; margin-bottom: 25px">If you have any questions, please email to  <a style="text-decoration: none" href="mailto:contact@supertomato.ai">contact@supertomato.ai</a>  - we're always happy to help out</p>
+
+                        <p style="font-family: 'Roboto', sans-serif;
+                                                                font-style: normal;
+                                                                font-weight: 500;
+                                                                font-size: 15px;
+                                                                line-height: 18px;
+                                                                color: #2F2F2F; margin-top: 0px; margin-bottom: 25px">Cheers, </br> Super Tomato Team</p>
+
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
